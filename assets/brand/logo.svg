@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-labelledby="title desc">
+  <title id="title">QRka</title>
+  <desc id="desc">QRka — редактор QR-кодов</desc>
+  <g transform="translate(4 4)">
+    <rect width="56" height="56" rx="14" fill="#211d15"/>
+    <g fill="#fffdf6">
+      <path d="M9 9h15v15H9zm23 0h15v15H32zM9 32h15v15H9z"/>
+      <path d="M14 14h5v5h-5zm23 0h5v5h-5zM14 37h5v5h-5z" fill="#211d15"/>
+      <path d="M32 32h6v6h-6zm9 0h6v6h-6zm-9 9h6v6h-6z"/>
+    </g>
+    <rect x="41" y="41" width="6" height="6" rx="1" fill="#ffd23f"/>
+  </g>
+  <text x="76" y="45" fill="#211d15" font-family="Arial, sans-serif" font-size="39" font-weight="700" letter-spacing="-1.4">QRka</text>
+</svg>
